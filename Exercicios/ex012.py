@@ -1,0 +1,5 @@
+nome = input('Qual é o nome do funcionário ? ')
+salario = float(input('Digite o salário do funcionário: '))
+aumento = salario + (salario*15/100)
+print('O salário do funcionário {} é de R$ {:.2f} com o aumento de 15% dado pela empresa o seu salário será de R$ {:.2f}'.format(nome, salario, aumento))
+print('Parabéns Sr. {} você ganhou um aumento de R$ {:.2f}'.format(nome, aumento - salario))

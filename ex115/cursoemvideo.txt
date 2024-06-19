@@ -1,0 +1,12 @@
+Lucas;21
+Paula;22
+Mateus;25
+Leticia;18
+Victor;58
+Nelci;55
+Elton;633
+Cristina;54
+Ana;84
+Rafael;61
+Artur;15
+Chcio;24

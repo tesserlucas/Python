@@ -1,0 +1,8 @@
+nome = input("Digite o nome: ")
+m = nome.upper()
+mi = nome.lower()
+n = nome.replace(' ','')
+print("Seu nome em letras maiúsculas {}".format(m))
+print("Seu nome em letras minuscúlas {}".format(mi))
+print("Seu nome tem {} letras".format(len(n)))
+print("Seu primeiro nome tem {} letras".format(len(nome[0:5])))
